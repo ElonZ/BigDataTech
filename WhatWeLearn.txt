@@ -1,3 +1,5 @@
+Author: Ziming Zeng
+
 1: Linux Command Line
 Topics  covered:
 1. How to use command line to go through a file directory. 
