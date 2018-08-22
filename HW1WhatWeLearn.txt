@@ -1,0 +1,27 @@
+Author: Ziming Zeng
+
+1: Linux Command Line
+Topics  covered:
+1. How to use command line to go through a file directory. 
+2. How to change directories, copy and remove files using command line
+Why  important:
+Command line will make certain operations extremely fast and efficient. For example, deleting all files with txt format. And another reason is that you have to use command line in operating system which does not have a GUI.
+
+2. AWS
+Topics covered: We covered how to set up and launch a AWS EC2 instance. 
+Why it is important: Working on a remote computer gives us the computation power we don't have in our own laptop. 
+
+3. Git
+Topics covered: How to create repositary, track history, commit changes, push to the github, pull from the github. 
+Why important: The version control of Git allows us to keep track of everything we have done and also allows multiple users to work on the same project efficiently.
+
+4. Shell script:
+Topics covered: how to run shell script
+Why important: Shell script allows us to pass parameters to the program and makes it eaiser to do looping or cluster computing.
+
+5. Vim:
+Topics covered: how to write & save a docuement using vim and some short cut.
+Why important: using those shortcut in Vim can make writing extremely efficient.
+
+
+
