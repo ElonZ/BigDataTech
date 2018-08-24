@@ -1,1 +1,1 @@
-!coverage.py: This is a private format, don't read it directly!{"lines":{"/home/ec2-user/bigdatatech/homework2/sum/__init__.py":[],"/home/ec2-user/bigdatatech/homework2/sum/tree.py":[]}}
+!coverage.py: This is a private format, don't read it directly!{"lines":{"/home/ec2-user/bigdatatech/homework2/sum/__init__.py":[1],"/home/ec2-user/bigdatatech/homework2/sum/tree.py":[1,4,5,13,16,18,24,45,51,66,70,95,22,76,85,67,86,88,89,77,78,91,92,46,47,6,7,8,10,49,32,33,34,38,68,79,81,82,83,40,41,43]}}

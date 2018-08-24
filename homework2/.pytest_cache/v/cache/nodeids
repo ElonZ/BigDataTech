@@ -1,0 +1,6 @@
+[
+  "tests/test_.py::TestClass::test_1",
+  "tests/test_.py::TestClass::test_2",
+  "tests/test_.py::TestClass::test_3",
+  "tests/test_.py::TestClass::test_4"
+]
