@@ -8,5 +8,5 @@ lint:
 cover_tests:
 	py.test -s  --cov-config .coveragerc --cov sum \
 	--no-cov-on-fail \
-	--cov-fail-under=90 \
+	--cov-fail-under=80 \
 	tests
