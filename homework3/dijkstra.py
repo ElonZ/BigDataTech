@@ -78,7 +78,6 @@ if __name__ == '__main__':
     source = 1
     sink = 4
     shortest_dist,path = find_shortest_path('testdata.txt', source, sink)
-    print(shortest_dist)
 
     path_taken = [sink]
 
@@ -87,4 +86,4 @@ if __name__ == '__main__':
         sink = path[sink]
 
     a = [str(i) for i in path_taken[::-1]]
-    print('->'.join(a))
+    print([shortest_dist, '->'.join(a)])
